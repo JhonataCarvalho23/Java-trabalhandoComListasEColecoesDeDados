@@ -4,6 +4,10 @@ import java.util.ArrayList;
 
 public class Linguagens {
 
+	
+	// Exercicio 1
+	
+	
 	public static void main(String[] args) {
 		
 		ArrayList<String> linguagens = new ArrayList<>();
