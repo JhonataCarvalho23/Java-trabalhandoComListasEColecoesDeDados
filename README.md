@@ -8,9 +8,9 @@ Projeto desenvolvido no curso **"Java: trabalhando com listas e coleções de da
 
 <div align="center">
 
-<img src="./assets/certificado.png" alt="Certificado" width="800px">
+<img src="assets/certificado.png" alt="Certificado" width="800px">
 
-📄 [Clique aqui para abrir/baixar o Certificado em PDF](./assets/certificado.pdf)
+📄 [Clique aqui para abrir/baixar o Certificado em PDF](assets/certificado.pdf)
 
 *Certificado de conclusão do curso "Java: trabalhando com listas e coleções de dados" pela Alura.*
 
